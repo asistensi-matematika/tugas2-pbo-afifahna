@@ -1,7 +1,7 @@
 # Tugas 2 ASISTENSI PBO - Jumat, 27 September 2019
-NAMA: `isi nama disini`
+NAMA: Afifah Nadhirah
 
-NRP: `isi nrp disini`
+NRP: 06111840000074
 
 
 ## DESKRIPSI SOAL
@@ -16,7 +16,7 @@ Tugas ini harus mempunyai 3 kelas: `Customer`, `Diskon`, dan `Visit` yang relasi
 buat 4 member yang membeli barang yang sama seharga 982758, beserta total pembayarannya, tiap member harus mempunyai tipe membership yang berbeda.
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
